@@ -68,6 +68,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "2",
     "artist": "CR CG gangs",
     "rarity": "Rare",
@@ -116,6 +117,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "3",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Rare",
@@ -168,6 +170,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "4",
     "artist": "Shin-ichi Yoshida",
     "rarity": "Rare",
@@ -221,6 +224,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "5",
     "artist": "Aya Kusube",
     "rarity": "Rare",
@@ -276,6 +280,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "6",
     "artist": "Kimiya Masago",
     "rarity": "Rare",
@@ -325,6 +330,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "7",
     "artist": "",
     "rarity": "Rare",
@@ -392,6 +398,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "8",
     "artist": "Tomokazu Komiya",
     "rarity": "Rare",
@@ -437,6 +444,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "9",
     "artist": "Shin-ichi Yoshida",
     "rarity": "Rare",
@@ -492,6 +500,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "10",
     "artist": "Kimiya Masago",
     "rarity": "Rare",
@@ -549,6 +558,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "11",
     "artist": "Hironobu Yoshida",
     "rarity": "Rare",
@@ -599,6 +609,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "12",
     "artist": "Hironobu Yoshida",
     "rarity": "Rare",
@@ -654,6 +665,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "13",
     "artist": "Kimiya Masago",
     "rarity": "Rare",
@@ -711,6 +723,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "14",
     "artist": "CR CG gangs",
     "rarity": "Rare",
@@ -754,6 +767,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "15",
     "artist": "Naoyo Kimura",
     "rarity": "Rare",
@@ -815,6 +829,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "16",
     "artist": "Hironobu Yoshida",
     "rarity": "Rare",
@@ -968,6 +983,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "19",
     "artist": "Atsuko Nishida",
     "rarity": "Rare",
@@ -1027,6 +1043,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "20",
     "artist": "Naoyo Kimura",
     "rarity": "Rare",
@@ -1087,6 +1104,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "21",
     "artist": "CR CG gangs",
     "rarity": "Rare",
@@ -1135,6 +1153,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "22",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Rare",
@@ -1187,6 +1206,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "23",
     "artist": "Shin-ichi Yoshida",
     "rarity": "Rare",
@@ -1240,6 +1260,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "24",
     "artist": "Aya Kusube",
     "rarity": "Rare",
@@ -1295,6 +1316,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "25",
     "artist": "Kimiya Masago",
     "rarity": "Rare",
@@ -1344,6 +1366,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "26",
     "artist": "",
     "rarity": "Rare",
@@ -1411,6 +1434,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "27",
     "artist": "Tomokazu Komiya",
     "rarity": "Rare",
@@ -1456,6 +1480,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "28",
     "artist": "Shin-ichi Yoshida",
     "rarity": "Rare",
@@ -1511,6 +1536,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "29",
     "artist": "Kimiya Masago",
     "rarity": "Rare",
@@ -1568,6 +1594,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "30",
     "artist": "Hironobu Yoshida",
     "rarity": "Rare",
@@ -1618,6 +1645,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "31",
     "artist": "Hironobu Yoshida",
     "rarity": "Rare",
@@ -1673,6 +1701,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "32",
     "artist": "Naoyo Kimura",
     "rarity": "Rare",
@@ -1730,6 +1759,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "33",
     "artist": "CR CG gangs",
     "rarity": "Rare",
@@ -1773,6 +1803,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "34",
     "artist": "Naoyo Kimura",
     "rarity": "Rare",
@@ -1834,6 +1865,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "35",
     "artist": "Hironobu Yoshida",
     "rarity": "Rare",
@@ -1931,6 +1963,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "37",
     "artist": "Yuka Morii",
     "rarity": "Uncommon",
@@ -1986,6 +2019,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "38",
     "artist": "Aya Kusube",
     "rarity": "Uncommon",
@@ -2042,6 +2076,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "39",
     "artist": "Shin-ichi Yoshida",
     "rarity": "Uncommon",
@@ -2128,6 +2163,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "41",
     "artist": "Yukiko Baba",
     "rarity": "Uncommon",
@@ -2174,6 +2210,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "42",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Uncommon",
@@ -2230,6 +2267,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "43",
     "artist": "Shin-ichi Yoshida",
     "rarity": "Uncommon",
@@ -2282,6 +2320,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "44",
     "artist": "Kagemaru Himeno",
     "rarity": "Uncommon",
@@ -2338,6 +2377,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "45",
     "artist": "Hironobu Yoshida",
     "rarity": "Uncommon",
@@ -2398,6 +2438,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "46",
     "artist": "Kimiya Masago",
     "rarity": "Uncommon",
@@ -2453,6 +2494,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "47",
     "artist": "CR CG gangs",
     "rarity": "Uncommon",
@@ -2498,6 +2540,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "48",
     "artist": "CR CG gangs",
     "rarity": "Uncommon",
@@ -2538,6 +2581,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "49",
     "artist": "CR CG gangs",
     "rarity": "Uncommon",
@@ -2578,6 +2622,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "50",
     "artist": "CR CG gangs",
     "rarity": "Uncommon",
@@ -2623,6 +2668,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "51",
     "artist": "CR CG gangs",
     "rarity": "Uncommon",
@@ -2664,6 +2710,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "52",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Uncommon",
@@ -2721,6 +2768,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "53",
     "artist": "Yuka Morii",
     "rarity": "Common",
@@ -2858,6 +2906,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "56",
     "artist": "Yuka Morii",
     "rarity": "Common",
@@ -2902,6 +2951,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "57",
     "artist": "Hironobu Yoshida",
     "rarity": "Common",
@@ -2951,6 +3001,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "58",
     "artist": "Atsuko Nishida",
     "rarity": "Common",
@@ -2995,6 +3046,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "59",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Common",
@@ -3049,6 +3101,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "60",
     "artist": "Yuka Morii",
     "rarity": "Common",
@@ -3093,6 +3146,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "61",
     "artist": "Tomokazu Komiya",
     "rarity": "Common",
@@ -3136,6 +3190,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "62",
     "artist": "Aya Kusube",
     "rarity": "Common",
@@ -3188,6 +3243,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "63",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Common",
@@ -3247,6 +3303,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "64",
     "artist": "Yukiko Baba",
     "rarity": "Common",
@@ -3291,6 +3348,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "65",
     "artist": "Miki Tanaka",
     "rarity": "Common",
@@ -3394,6 +3452,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "67",
     "artist": "CR CG gangs",
     "rarity": "Common",
@@ -3434,6 +3493,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "68",
     "artist": "CR CG gangs",
     "rarity": "Common",
@@ -3479,6 +3539,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "69",
     "artist": "CR CG gangs",
     "rarity": "Common",
@@ -3519,6 +3580,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "70",
     "artist": "Miki Tanaka",
     "rarity": "Common",
@@ -3562,6 +3624,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "71",
     "artist": "Yukiko Baba",
     "rarity": "Common",

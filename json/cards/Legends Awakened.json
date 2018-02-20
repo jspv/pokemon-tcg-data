@@ -15,6 +15,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "1",
     "artist": "Kent Kanetsuna",
     "rarity": "Rare Holo",
@@ -59,6 +60,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "2",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
@@ -120,6 +122,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "3",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare Holo",
@@ -172,6 +175,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "4",
     "artist": "Kazuaki Aihara",
     "rarity": "Rare Holo",
@@ -232,6 +236,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "5",
     "artist": "Kent Kanetsuna",
     "rarity": "Rare Holo",
@@ -296,6 +301,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 4,
     "number": "6",
     "artist": "Kent Kanetsuna",
     "rarity": "Rare Holo",
@@ -340,6 +346,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "7",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
@@ -454,6 +461,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 4,
     "number": "9",
     "artist": "Kouki Saitou",
     "rarity": "Rare Holo",
@@ -522,6 +530,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "10",
     "artist": "Kent Kanetsuna",
     "rarity": "Rare Holo",
@@ -571,6 +580,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "11",
     "artist": "Ken Sugimori",
     "rarity": "Rare Holo",
@@ -628,6 +638,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "12",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare Holo",
@@ -677,6 +688,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "13",
     "artist": "Kent Kanetsuna",
     "rarity": "Rare Holo",
@@ -726,6 +738,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "14",
     "artist": "Kent Kanetsuna",
     "rarity": "Rare Holo",
@@ -783,6 +796,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 4,
     "number": "15",
     "artist": "Ryo Ueda",
     "rarity": "Rare Holo",
@@ -832,6 +846,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "16",
     "artist": "Ryo Ueda",
     "rarity": "Rare Holo",
@@ -935,6 +950,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "18",
     "artist": "Kazuaki Aihara",
     "rarity": "Rare",
@@ -982,6 +998,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "19",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
@@ -1023,6 +1040,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "20",
     "artist": "Atsuko Nishida",
     "rarity": "Rare",
@@ -1082,6 +1100,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "21",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare",
@@ -1135,6 +1154,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "22",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare",
@@ -1199,6 +1219,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "23",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare",
@@ -1245,6 +1266,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "24",
     "artist": "Kent Kanetsuna",
     "rarity": "Rare",
@@ -1293,6 +1315,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "25",
     "artist": "Kazuaki Aihara",
     "rarity": "Rare",
@@ -1383,6 +1406,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "27",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
@@ -1419,6 +1443,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "28",
     "artist": "Kent Kanetsuna",
     "rarity": "Rare",
@@ -1470,6 +1495,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "29",
     "artist": "Kazuaki Aihara",
     "rarity": "Rare",
@@ -1534,6 +1560,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "30",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
@@ -1576,6 +1603,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "31",
     "artist": "Satoshi Ohta",
     "rarity": "Rare",
@@ -1634,6 +1662,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "32",
     "artist": "Kent Kanetsuna",
     "rarity": "Rare",
@@ -1691,6 +1720,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "33",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
@@ -1746,6 +1776,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "34",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
@@ -1789,6 +1820,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "35",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare",
@@ -1847,6 +1879,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "36",
     "artist": "Kazuaki Aihara",
     "rarity": "Rare",
@@ -1897,6 +1930,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 4,
     "number": "37",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
@@ -1946,6 +1980,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "38",
     "artist": "Kazuaki Aihara",
     "rarity": "Rare",
@@ -1996,6 +2031,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 4,
     "number": "39",
     "artist": "Kazuaki Aihara",
     "rarity": "Rare",
@@ -2087,6 +2123,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "41",
     "artist": "Midori Harada",
     "rarity": "Rare",
@@ -2133,6 +2170,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "42",
     "artist": "Kent Kanetsuna",
     "rarity": "Rare",
@@ -2178,6 +2216,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "43",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
@@ -2221,6 +2260,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "44",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
@@ -2279,6 +2319,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "45",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare",
@@ -2322,6 +2363,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "46",
     "artist": "Kouki Saitou",
     "rarity": "Uncommon",
@@ -2378,6 +2420,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "47",
     "artist": "Kagemaru Himeno",
     "rarity": "Uncommon",
@@ -2435,6 +2478,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "48",
     "artist": "Kanako Eo",
     "rarity": "Uncommon",
@@ -2481,6 +2525,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "49",
     "artist": "Emi Yoshida",
     "rarity": "Uncommon",
@@ -2527,6 +2572,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "50",
     "artist": "Saya Tsuruta",
     "rarity": "Uncommon",
@@ -2573,6 +2619,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "51",
     "artist": "Lee HyunJung",
     "rarity": "Uncommon",
@@ -2615,6 +2662,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "52",
     "artist": "Suwama Chiaki",
     "rarity": "Uncommon",
@@ -2726,6 +2774,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "54",
     "artist": "Ken Sugimori",
     "rarity": "Uncommon",
@@ -2776,6 +2825,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "55",
     "artist": "Ken Sugimori",
     "rarity": "Uncommon",
@@ -2834,6 +2884,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "56",
     "artist": "Masakazu Fukuda",
     "rarity": "Uncommon",
@@ -2890,6 +2941,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "57",
     "artist": "Kouki Saitou",
     "rarity": "Uncommon",
@@ -2941,6 +2993,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "58",
     "artist": "Masakazu Fukuda",
     "rarity": "Uncommon",
@@ -2994,6 +3047,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "59",
     "artist": "Kouki Saitou",
     "rarity": "Uncommon",
@@ -3046,6 +3100,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "60",
     "artist": "Midori Harada",
     "rarity": "Uncommon",
@@ -3103,6 +3158,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "61",
     "artist": "Naoyo Kimura",
     "rarity": "Uncommon",
@@ -3155,6 +3211,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "62",
     "artist": "Naoyo Kimura",
     "rarity": "Uncommon",
@@ -3218,6 +3275,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "63",
     "artist": "Ken Sugimori",
     "rarity": "Uncommon",
@@ -3276,6 +3334,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "64",
     "artist": "Midori Harada",
     "rarity": "Uncommon",
@@ -3339,6 +3398,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "65",
     "artist": "Masakazu Fukuda",
     "rarity": "Uncommon",
@@ -3401,6 +3461,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "66",
     "artist": "Masakazu Fukuda",
     "rarity": "Uncommon",
@@ -3561,6 +3622,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "69",
     "artist": "Midori Harada",
     "rarity": "Uncommon",
@@ -3624,6 +3686,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "70",
     "artist": "Atsuko Nishida",
     "rarity": "Uncommon",
@@ -3727,6 +3790,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "72",
     "artist": "Midori Harada",
     "rarity": "Uncommon",
@@ -3785,6 +3849,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "73",
     "artist": "Suwama Chiaki",
     "rarity": "Uncommon",
@@ -3833,6 +3898,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "74",
     "artist": "Ken Sugimori",
     "rarity": "Uncommon",
@@ -3886,6 +3952,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "75",
     "artist": "Kouki Saitou",
     "rarity": "Uncommon",
@@ -3942,6 +4009,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "76",
     "artist": "Kent Kanetsuna",
     "rarity": "Uncommon",
@@ -3987,6 +4055,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "77",
     "artist": "Kent Kanetsuna",
     "rarity": "Uncommon",
@@ -4032,6 +4101,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "78",
     "artist": "Kent Kanetsuna",
     "rarity": "Uncommon",
@@ -4077,6 +4147,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "79",
     "artist": "Kent Kanetsuna",
     "rarity": "Uncommon",
@@ -4124,6 +4195,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "80",
     "artist": "Kazuaki Aihara",
     "rarity": "Uncommon",
@@ -4171,6 +4243,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "81",
     "artist": "Kazuaki Aihara",
     "rarity": "Uncommon",
@@ -4217,6 +4290,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "82",
     "artist": "Kazuaki Aihara",
     "rarity": "Uncommon",
@@ -4263,6 +4337,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "83",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Common",
@@ -4313,6 +4388,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "84",
     "artist": "Masakazu Fukuda",
     "rarity": "Common",
@@ -4372,6 +4448,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "85",
     "artist": "Atsuko Nishida",
     "rarity": "Common",
@@ -4424,6 +4501,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "86",
     "artist": "Atsuko Nishida",
     "rarity": "Common",
@@ -4478,6 +4556,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "87",
     "artist": "Atsuko Nishida",
     "rarity": "Common",
@@ -4530,6 +4609,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "88",
     "artist": "Midori Harada",
     "rarity": "Common",
@@ -4583,6 +4663,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "89",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Common",
@@ -4636,6 +4717,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "90",
     "artist": "Kagemaru Himeno",
     "rarity": "Common",
@@ -4695,6 +4777,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "91",
     "artist": "Ken Sugimori",
     "rarity": "Common",
@@ -4748,6 +4831,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "92",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Common",
@@ -4807,6 +4891,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "93",
     "artist": "Midori Harada",
     "rarity": "Common",
@@ -4859,6 +4944,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "94",
     "artist": "Masakazu Fukuda",
     "rarity": "Common",
@@ -4917,6 +5003,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "95",
     "artist": "Kouki Saitou",
     "rarity": "Common",
@@ -4977,6 +5064,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "96",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Common",
@@ -5033,6 +5121,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "97",
     "artist": "Ken Sugimori",
     "rarity": "Common",
@@ -5088,6 +5177,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "98",
     "artist": "Ken Sugimori",
     "rarity": "Common",
@@ -5140,6 +5230,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "99",
     "artist": "Ken Sugimori",
     "rarity": "Common",
@@ -5190,6 +5281,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "100",
     "artist": "Mitsuhiro Arita",
     "rarity": "Common",
@@ -5242,6 +5334,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "101",
     "artist": "Masakazu Fukuda",
     "rarity": "Common",
@@ -5294,6 +5387,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "102",
     "artist": "Ken Sugimori",
     "rarity": "Common",
@@ -5346,6 +5440,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "103",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Common",
@@ -5404,6 +5499,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "104",
     "artist": "Atsuko Nishida",
     "rarity": "Common",
@@ -5465,6 +5561,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "105",
     "artist": "Kouki Saitou",
     "rarity": "Common",
@@ -5518,6 +5615,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "106",
     "artist": "Atsuko Nishida",
     "rarity": "Common",
@@ -5571,6 +5669,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "107",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Common",
@@ -5629,6 +5728,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "108",
     "artist": "Midori Harada",
     "rarity": "Common",
@@ -5681,6 +5781,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "109",
     "artist": "Ken Sugimori",
     "rarity": "Common",
@@ -5735,6 +5836,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "110",
     "artist": "Kouki Saitou",
     "rarity": "Common",
@@ -5789,6 +5891,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "111",
     "artist": "Hiroki Fuchino",
     "rarity": "Common",
@@ -5841,6 +5944,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "112",
     "artist": "Ken Sugimori",
     "rarity": "Common",
@@ -5894,6 +5998,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "113",
     "artist": "Masakazu Fukuda",
     "rarity": "Common",
@@ -5947,6 +6052,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "114",
     "artist": "Atsuko Nishida",
     "rarity": "Common",
@@ -6000,6 +6106,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "115",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Common",
@@ -6056,6 +6163,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "116",
     "artist": "Kouki Saitou",
     "rarity": "Common",
@@ -6115,6 +6223,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "117",
     "artist": "Kagemaru Himeno",
     "rarity": "Common",
@@ -6168,6 +6277,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "118",
     "artist": "Masakazu Fukuda",
     "rarity": "Common",
@@ -6227,6 +6337,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "119",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Common",
@@ -6279,6 +6390,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "120",
     "artist": "Midori Harada",
     "rarity": "Common",
@@ -6338,6 +6450,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "121",
     "artist": "Kouki Saitou",
     "rarity": "Common",
@@ -6391,6 +6504,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "122",
     "artist": "Ken Sugimori",
     "rarity": "Common",
@@ -6445,6 +6559,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "123",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Common",
@@ -6504,6 +6619,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "124",
     "artist": "Takao Unno",
     "rarity": "Common",
@@ -6562,6 +6678,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "125",
     "artist": "Atsuko Nishida",
     "rarity": "Common",
@@ -6619,6 +6736,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "126",
     "artist": "Kagemaru Himeno",
     "rarity": "Common",
@@ -6666,6 +6784,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "127",
     "artist": "Ken Sugimori",
     "rarity": "Common",
@@ -6719,6 +6838,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "128",
     "artist": "Masakazu Fukuda",
     "rarity": "Common",
@@ -6984,6 +7104,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "140",
     "artist": "Shizurow",
     "rarity": "Rare Holo Lv.X",
@@ -7087,6 +7208,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 4,
     "number": "142",
     "artist": "Ryo Ueda",
     "rarity": "Rare Holo Lv.X",
@@ -7137,6 +7259,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "143",
     "artist": "Shizurow",
     "rarity": "Rare Holo Lv.X",
@@ -7196,6 +7319,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "144",
     "artist": "Shizurow",
     "rarity": "Rare Holo Lv.X",
@@ -7244,6 +7368,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 4,
     "number": "145",
     "artist": "Ryo Ueda",
     "rarity": "Rare Holo Lv.X",
@@ -7309,6 +7434,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "146",
     "artist": "Shizurow",
     "rarity": "Rare Holo Lv.X",

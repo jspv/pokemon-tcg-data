@@ -12,6 +12,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "1",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare",
@@ -69,6 +70,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "2",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare",
@@ -122,6 +124,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "3",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare",
@@ -176,6 +179,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "4",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare",
@@ -230,6 +234,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "5",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare",
@@ -294,6 +299,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "6",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
@@ -338,6 +344,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "7",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
@@ -447,6 +454,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "9",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare",
@@ -566,6 +574,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 4,
     "number": "11",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
@@ -616,6 +625,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "12",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare",
@@ -720,6 +730,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "14",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
@@ -777,6 +788,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "15",
     "artist": "Keiji Kinebuchi",
     "rarity": "Rare",
@@ -821,6 +833,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "16",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare",
@@ -880,6 +893,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "17",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare",
@@ -937,6 +951,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "18",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare",
@@ -990,6 +1005,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "19",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare",
@@ -1044,6 +1060,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "20",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare",
@@ -1098,6 +1115,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "21",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare",
@@ -1162,6 +1180,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "22",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
@@ -1206,6 +1225,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "23",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
@@ -1315,6 +1335,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "25",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare",
@@ -1434,6 +1455,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 4,
     "number": "27",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
@@ -1484,6 +1506,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "28",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare",
@@ -1588,6 +1611,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "30",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
@@ -1645,6 +1669,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "31",
     "artist": "Keiji Kinebuchi",
     "rarity": "Rare",
@@ -1689,6 +1714,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "32",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare",
@@ -1857,6 +1883,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "35",
     "artist": "Kagemaru Himeno",
     "rarity": "Uncommon",
@@ -1965,6 +1992,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "37",
     "artist": "Keiji Kinebuchi",
     "rarity": "Uncommon",
@@ -2019,6 +2047,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "38",
     "artist": "Mitsuhiro Arita",
     "rarity": "Uncommon",
@@ -2079,6 +2108,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "39",
     "artist": "Mitsuhiro Arita",
     "rarity": "Uncommon",
@@ -2138,6 +2168,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "40",
     "artist": "Ken Sugimori",
     "rarity": "Uncommon",
@@ -2193,6 +2224,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "41",
     "artist": "Ken Sugimori",
     "rarity": "Uncommon",
@@ -2302,6 +2334,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "43",
     "artist": "Kagemaru Himeno",
     "rarity": "Uncommon",
@@ -2407,6 +2440,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "45",
     "artist": "Kagemaru Himeno",
     "rarity": "Uncommon",
@@ -2471,6 +2505,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "46",
     "artist": "Kagemaru Himeno",
     "rarity": "Uncommon",
@@ -2522,6 +2557,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 2,
     "number": "47",
     "artist": "Kagemaru Himeno",
     "rarity": "Uncommon",
@@ -2581,6 +2617,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "48",
     "artist": "Kagemaru Himeno",
     "rarity": "Uncommon",
@@ -2634,6 +2671,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "49",
     "artist": "Kagemaru Himeno",
     "rarity": "Common",
@@ -2686,6 +2724,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "50",
     "artist": "Mitsuhiro Arita",
     "rarity": "Common",
@@ -2745,6 +2784,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "51",
     "artist": "Kagemaru Himeno",
     "rarity": "Common",
@@ -2811,6 +2851,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "52",
     "artist": "Mitsuhiro Arita",
     "rarity": "Common",
@@ -2904,6 +2945,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "54",
     "artist": "Kagemaru Himeno",
     "rarity": "Common",
@@ -3008,6 +3050,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "56",
     "artist": "Mitsuhiro Arita",
     "rarity": "Common",
@@ -3058,6 +3101,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "57",
     "artist": "Ken Sugimori",
     "rarity": "Common",
@@ -3111,6 +3155,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "58",
     "artist": "Keiji Kinebuchi",
     "rarity": "Common",
@@ -3164,6 +3209,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "59",
     "artist": "Ken Sugimori",
     "rarity": "Common",
@@ -3219,6 +3265,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "60",
     "artist": "Ken Sugimori",
     "rarity": "Common",
@@ -3265,6 +3312,7 @@
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 3,
     "number": "61",
     "artist": "Mitsuhiro Arita",
     "rarity": "Common",
@@ -3382,6 +3430,7 @@
     "retreatCost": [
       "Colorless"
     ],
+    "convertedRetreatCost": 1,
     "number": "63",
     "artist": "Mitsuhiro Arita",
     "rarity": "Common",
