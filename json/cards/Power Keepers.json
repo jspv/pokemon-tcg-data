@@ -948,6 +948,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Poochyena",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "18",
     "artist": "Midori Harada",
     "rarity": "Rare",
@@ -2031,6 +2032,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Carvanha",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "38",
     "artist": "Midori Harada",
     "rarity": "Uncommon",
@@ -4272,6 +4274,7 @@
       "type": "Poké-Body"
     },
     "hp": "150",
+    "convertedRetreatCost": 0,
     "number": "94",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo EX",

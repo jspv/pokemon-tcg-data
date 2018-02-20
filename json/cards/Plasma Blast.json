@@ -371,6 +371,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Shelmet",
     "hp": "80",
+    "convertedRetreatCost": 0,
     "number": "8",
     "artist": "5ban Graphics",
     "rarity": "Rare",
@@ -1789,6 +1790,7 @@
       "type": "Ability"
     },
     "hp": "100",
+    "convertedRetreatCost": 0,
     "number": "35",
     "artist": "Akira Komayama",
     "rarity": "Rare",
@@ -2748,6 +2750,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Archen",
     "hp": "120",
+    "convertedRetreatCost": 0,
     "number": "54",
     "artist": "Kouki Saitou",
     "rarity": "Rare Holo",

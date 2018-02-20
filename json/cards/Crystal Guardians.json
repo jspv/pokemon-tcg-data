@@ -4249,6 +4249,7 @@
       "type": "Poké-Power"
     },
     "hp": "90",
+    "convertedRetreatCost": 0,
     "number": "91",
     "artist": "Shizurow",
     "rarity": "Rare Holo EX",
@@ -4586,6 +4587,7 @@
       "type": "Poké-Body"
     },
     "hp": "140",
+    "convertedRetreatCost": 0,
     "number": "97",
     "artist": "Ryo Ueda",
     "rarity": "Rare Holo EX",

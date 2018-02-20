@@ -413,6 +413,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Shelmet",
     "hp": "90",
+    "convertedRetreatCost": 0,
     "number": "9",
     "artist": "Shin Nagasawa",
     "rarity": "Uncommon",
@@ -3362,6 +3363,7 @@
       "type": "Ability"
     },
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "63",
     "artist": "5ban Graphics",
     "rarity": "Rare Holo",

@@ -12,6 +12,7 @@
       "type": "Poké-Body"
     },
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "1",
     "artist": "Hajime Kusajima",
     "rarity": "Rare Holo",
@@ -950,6 +951,7 @@
       "type": "Poké-Body"
     },
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "17",
     "artist": "Atsuko Nishida",
     "rarity": "Rare",
@@ -1764,6 +1766,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Voltorb",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "32",
     "artist": "Midori Harada",
     "rarity": "Uncommon",
@@ -2497,6 +2500,7 @@
       "type": "Poké-Body"
     },
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "45",
     "artist": "Kagemaru Himeno",
     "rarity": "Uncommon",

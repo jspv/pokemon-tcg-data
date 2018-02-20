@@ -856,6 +856,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Monferno",
     "hp": "130",
+    "convertedRetreatCost": 0,
     "number": "17",
     "artist": "5ban Graphics",
     "rarity": "Rare Holo",
@@ -1678,6 +1679,7 @@
       "type": "Ability"
     },
     "hp": "90",
+    "convertedRetreatCost": 0,
     "number": "33",
     "artist": "5ban Graphics",
     "rarity": "Rare",
@@ -2560,6 +2562,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Joltik",
     "hp": "80",
+    "convertedRetreatCost": 0,
     "number": "51",
     "artist": "Hajime Kusajima",
     "rarity": "Uncommon",
@@ -2767,6 +2770,7 @@
       "type": "Ability"
     },
     "hp": "130",
+    "convertedRetreatCost": 0,
     "number": "55",
     "artist": "5ban Graphics",
     "rarity": "Rare Holo",

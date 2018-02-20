@@ -1808,6 +1808,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Zigzagoon",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "34",
     "artist": "Yuka Morii",
     "rarity": "Uncommon",
@@ -2181,6 +2182,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Taillow",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "41",
     "artist": "Naoyo Kimura",
     "rarity": "Uncommon",
@@ -4564,6 +4566,7 @@
       "type": "Poké-Body"
     },
     "hp": "100",
+    "convertedRetreatCost": 0,
     "number": "97",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo EX",

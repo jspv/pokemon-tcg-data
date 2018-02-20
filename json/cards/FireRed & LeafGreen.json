@@ -7,6 +7,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Kakuna",
     "hp": "90",
+    "convertedRetreatCost": 0,
     "number": "1",
     "artist": "Hajime Kusajima",
     "rarity": "Rare Holo",
@@ -60,6 +61,7 @@
       "type": "Poké-Body"
     },
     "hp": "100",
+    "convertedRetreatCost": 0,
     "number": "2",
     "artist": "Atsuko Nishida",
     "rarity": "Rare Holo",
@@ -509,6 +511,7 @@
       "type": "Poké-Power"
     },
     "hp": "100",
+    "convertedRetreatCost": 0,
     "number": "10",
     "artist": "Midori Harada",
     "rarity": "Rare Holo",
@@ -1480,6 +1483,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Mankey",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "28",
     "artist": "Miki Tanaka",
     "rarity": "Rare",
@@ -2386,6 +2390,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Pidgey",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "45",
     "artist": "Midori Harada",
     "rarity": "Uncommon",
@@ -2555,6 +2560,7 @@
       "type": "Poké-Body"
     },
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "48",
     "artist": "Kyoko Umemoto",
     "rarity": "Uncommon",
@@ -2606,6 +2612,7 @@
       "type": "Poké-Body"
     },
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "49",
     "artist": "Kagemaru Himeno",
     "rarity": "Uncommon",

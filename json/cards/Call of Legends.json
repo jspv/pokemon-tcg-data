@@ -1223,6 +1223,7 @@
       "type": "Poké-Body"
     },
     "hp": "30",
+    "convertedRetreatCost": 0,
     "number": "24",
     "artist": "sui",
     "rarity": "Rare",
@@ -1531,6 +1532,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Pidgeotto",
     "hp": "120",
+    "convertedRetreatCost": 0,
     "number": "30",
     "artist": "Suwama Chiaki",
     "rarity": "Rare",
@@ -1866,6 +1868,7 @@
       "type": "Poké-Body"
     },
     "hp": "30",
+    "convertedRetreatCost": 0,
     "number": "36",
     "artist": "Shigenori Negishi",
     "rarity": "Rare",
@@ -2355,6 +2358,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Eevee",
     "hp": "80",
+    "convertedRetreatCost": 0,
     "number": "45",
     "artist": "Shin Nagasawa",
     "rarity": "Uncommon",
@@ -2413,6 +2417,7 @@
       "type": "Poké-Body"
     },
     "hp": "30",
+    "convertedRetreatCost": 0,
     "number": "46",
     "artist": "Akira Komayama",
     "rarity": "Uncommon",
@@ -2451,6 +2456,7 @@
       "type": "Poké-Body"
     },
     "hp": "30",
+    "convertedRetreatCost": 0,
     "number": "47",
     "artist": "Noriko Hotta",
     "rarity": "Uncommon",

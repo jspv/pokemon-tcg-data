@@ -64,6 +64,7 @@
       "type": "Poké-Power"
     },
     "hp": "80",
+    "convertedRetreatCost": 0,
     "number": "2",
     "artist": "Ken Sugimori",
     "rarity": "Rare",

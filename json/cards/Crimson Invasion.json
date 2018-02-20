@@ -95,6 +95,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Kakuna",
     "hp": "120",
+    "convertedRetreatCost": 0,
     "number": "3",
     "artist": "kirisAki",
     "rarity": "Rare",
@@ -1920,6 +1921,7 @@
       "type": "Ability"
     },
     "hp": "130",
+    "convertedRetreatCost": 0,
     "number": "38",
     "artist": "Shin Nagasawa",
     "rarity": "Rare Holo",

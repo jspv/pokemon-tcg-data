@@ -432,6 +432,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Combee",
     "hp": "90",
+    "convertedRetreatCost": 0,
     "number": "10",
     "artist": "kawayoo",
     "rarity": "Uncommon",
@@ -1269,6 +1270,7 @@
       "type": "Ability"
     },
     "hp": "90",
+    "convertedRetreatCost": 0,
     "number": "26",
     "artist": "Sanosuke Sakuma",
     "rarity": "Rare Holo",

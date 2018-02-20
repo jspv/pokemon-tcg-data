@@ -512,6 +512,7 @@
       "type": "Poké-Body"
     },
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "14",
     "artist": "Mitsuhiro Arita",
     "rarity": "Common",

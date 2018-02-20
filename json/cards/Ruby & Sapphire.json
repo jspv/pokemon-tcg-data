@@ -86,6 +86,7 @@
       "type": "Poké-Body"
     },
     "hp": "80",
+    "convertedRetreatCost": 0,
     "number": "2",
     "artist": "Hajime Kusajima",
     "rarity": "Rare Holo",
@@ -290,6 +291,7 @@
       "type": "Poké-Body"
     },
     "hp": "90",
+    "convertedRetreatCost": 0,
     "number": "6",
     "artist": "Midori Harada",
     "rarity": "Rare Holo",
@@ -1113,6 +1115,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Goldeen",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "21",
     "artist": "Hajime Kusajima",
     "rarity": "Rare",
@@ -2483,6 +2486,7 @@
       "type": "Poké-Power"
     },
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "46",
     "artist": "Ken Sugimori",
     "rarity": "Uncommon",

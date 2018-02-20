@@ -978,6 +978,7 @@
     "subtype": "Basic",
     "supertype": "Pokémon",
     "hp": "40",
+    "convertedRetreatCost": 0,
     "number": "20",
     "artist": "Ken Sugimori",
     "rarity": "",
@@ -2392,6 +2393,7 @@
       "type": "Ability"
     },
     "hp": "150",
+    "convertedRetreatCost": 0,
     "number": "48",
     "artist": "Akira Komayama",
     "rarity": "",
@@ -5164,6 +5166,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Gabite",
     "hp": "150",
+    "convertedRetreatCost": 0,
     "number": "99",
     "artist": "Megumi Mizutani",
     "rarity": "",
@@ -5770,6 +5773,7 @@
       "type": "Ability"
     },
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "110",
     "artist": "Masakazu Fukuda",
     "rarity": "",

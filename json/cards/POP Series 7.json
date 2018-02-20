@@ -238,6 +238,7 @@
     "level": "39",
     "evolvesFrom": "Burmy",
     "hp": "80",
+    "convertedRetreatCost": 0,
     "number": "5",
     "artist": "Kazuyuki Kano",
     "rarity": "Rare",

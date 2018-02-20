@@ -568,6 +568,7 @@
       "type": "Poké-Body"
     },
     "hp": "90",
+    "convertedRetreatCost": 0,
     "number": "11",
     "artist": "Kyoko Umemoto",
     "rarity": "Rare Holo",
@@ -922,6 +923,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Rattata",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "17",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
@@ -974,6 +976,7 @@
       "type": "Poké-Body"
     },
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "18",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare",
@@ -1837,6 +1840,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Zubat",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "34",
     "artist": "Masakazu Fukuda",
     "rarity": "Uncommon",
@@ -2635,6 +2639,7 @@
       "type": "Poké-Body"
     },
     "hp": "60",
+    "convertedRetreatCost": 0,
     "number": "49",
     "artist": "Kyoko Umemoto",
     "rarity": "Uncommon",

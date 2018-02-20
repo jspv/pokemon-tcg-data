@@ -237,6 +237,7 @@
       "type": "Poké-Body"
     },
     "hp": "130",
+    "convertedRetreatCost": 0,
     "number": "5",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
@@ -774,6 +775,7 @@
       "type": "Poké-Power"
     },
     "hp": "100",
+    "convertedRetreatCost": 0,
     "number": "14",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare Holo",
@@ -1393,6 +1395,7 @@
       "type": "Poké-Power"
     },
     "hp": "80",
+    "convertedRetreatCost": 0,
     "number": "25",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
@@ -1778,6 +1781,7 @@
       "type": "Poké-Body"
     },
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "32",
     "artist": "Naoyo Kimura",
     "rarity": "Rare",
@@ -3735,6 +3739,7 @@
       "type": "Poké-Body"
     },
     "hp": "80",
+    "convertedRetreatCost": 0,
     "number": "68",
     "artist": "Masakazu Fukuda",
     "rarity": "Uncommon",
@@ -4008,6 +4013,7 @@
     "level": "38",
     "evolvesFrom": "Nincada",
     "hp": "80",
+    "convertedRetreatCost": 0,
     "number": "73",
     "artist": "Kouki Saitou",
     "rarity": "Uncommon",
@@ -4230,6 +4236,7 @@
     "level": "35",
     "evolvesFrom": "Pikachu",
     "hp": "90",
+    "convertedRetreatCost": 0,
     "number": "77",
     "artist": "Takao Unno",
     "rarity": "Uncommon",
@@ -4284,6 +4291,7 @@
     "supertype": "Pokémon",
     "level": "57",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "78",
     "artist": "Ryota Saito",
     "rarity": "Uncommon",
@@ -4727,6 +4735,7 @@
     "supertype": "Pokémon",
     "level": "60",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "86",
     "artist": "kawayoo",
     "rarity": "Uncommon",
@@ -5604,6 +5613,7 @@
     "supertype": "Pokémon",
     "level": "12",
     "hp": "50",
+    "convertedRetreatCost": 0,
     "number": "102",
     "artist": "Atsuko Nishida",
     "rarity": "Common",
@@ -7676,6 +7686,7 @@
       "type": "Poké-Power"
     },
     "hp": "110",
+    "convertedRetreatCost": 0,
     "number": "145",
     "artist": "Shizurow",
     "rarity": "Rare Holo Lv.X",
@@ -7783,6 +7794,7 @@
       "type": "Poké-Power"
     },
     "hp": "100",
+    "convertedRetreatCost": 0,
     "number": "147",
     "artist": "Ryo Ueda",
     "rarity": "Rare Holo Lv.X",

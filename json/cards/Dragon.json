@@ -962,6 +962,7 @@
       "type": "Poké-Power"
     },
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "18",
     "artist": "Hajime Kusajima",
     "rarity": "Rare",
@@ -2075,6 +2076,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Nincada",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "38",
     "artist": "Toshinao Aoki",
     "rarity": "Uncommon",
@@ -2434,6 +2436,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Taillow",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "45",
     "artist": "Mitsuhiro Arita",
     "rarity": "Uncommon",

@@ -399,6 +399,7 @@
       "type": "Poké-Body"
     },
     "hp": "120",
+    "convertedRetreatCost": 0,
     "number": "8",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
@@ -885,6 +886,7 @@
     "level": "47",
     "evolvesFrom": "Yanma",
     "hp": "90",
+    "convertedRetreatCost": 0,
     "number": "17",
     "artist": "Kent Kanetsuna",
     "rarity": "Rare Holo",
@@ -1360,6 +1362,7 @@
       "type": "Poké-Power"
     },
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "26",
     "artist": "Kazuaki Aihara",
     "rarity": "Rare",
@@ -2083,6 +2086,7 @@
       "type": "Poké-Power"
     },
     "hp": "60",
+    "convertedRetreatCost": 0,
     "number": "40",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
@@ -2716,6 +2720,7 @@
     "level": "43",
     "evolvesFrom": "Drifloon",
     "hp": "90",
+    "convertedRetreatCost": 0,
     "number": "53",
     "artist": "Ken Sugimori",
     "rarity": "Uncommon",
@@ -3521,6 +3526,7 @@
       "type": "Poké-Power"
     },
     "hp": "80",
+    "convertedRetreatCost": 0,
     "number": "67",
     "artist": "Ken Sugimori",
     "rarity": "Uncommon",
@@ -3568,6 +3574,7 @@
     "level": "32",
     "evolvesFrom": "Meowth",
     "hp": "80",
+    "convertedRetreatCost": 0,
     "number": "68",
     "artist": "Ken Sugimori",
     "rarity": "Uncommon",
@@ -3739,6 +3746,7 @@
     "level": "39",
     "evolvesFrom": "Staryu",
     "hp": "80",
+    "convertedRetreatCost": 0,
     "number": "71",
     "artist": "Kouki Saitou",
     "rarity": "Uncommon",
@@ -7150,6 +7158,7 @@
       "type": "Poké-Power"
     },
     "hp": "110",
+    "convertedRetreatCost": 0,
     "number": "141",
     "artist": "Ryo Ueda",
     "rarity": "Rare Holo Lv.X",

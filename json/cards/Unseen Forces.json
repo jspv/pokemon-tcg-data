@@ -399,6 +399,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Eevee",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "8",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
@@ -3673,6 +3674,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Larvitar",
     "hp": "70",
+    "convertedRetreatCost": 0,
     "number": "70",
     "artist": "Aya Kusube",
     "rarity": "Common",
@@ -4635,6 +4637,7 @@
       "type": "Poké-Power"
     },
     "hp": "110",
+    "convertedRetreatCost": 0,
     "number": "102",
     "artist": "Ryo Ueda",
     "rarity": "Rare Holo EX",

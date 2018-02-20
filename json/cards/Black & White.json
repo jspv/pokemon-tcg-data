@@ -227,6 +227,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Servine",
     "hp": "130",
+    "convertedRetreatCost": 0,
     "number": "5",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare Holo",

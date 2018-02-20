@@ -729,6 +729,7 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Ponyta",
     "hp": "90",
+    "convertedRetreatCost": 0,
     "number": "15",
     "artist": "Akira Komayama",
     "rarity": "Uncommon",
